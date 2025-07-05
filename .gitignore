@@ -2,9 +2,10 @@
 
 # dependencies
 /node_modules
+/.bolt
 /.pnp
 .pnp.js
-.bolt
+
 
 # testing
 /coverage
